@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+***ClassTrack - School Managemnet System made easy!***
 
 ## Getting Started
 
