@@ -1,4 +1,4 @@
-***ClassTrack - School Managemnet System made easy!***
+## ***ClassTrack - School Managemnet System made easy!***
 
 ## Getting Started
 
