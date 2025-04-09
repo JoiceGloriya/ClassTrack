@@ -1,6 +1,6 @@
 ## ***ClassTrack*** - School Management System made easy!
 
-# Getting Started
+Getting Started
 
 First, run the development server:
 
