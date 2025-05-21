@@ -17,7 +17,7 @@
 ##  Tech Stack:
 
 - **Frontend**: React, TypeScript  
-- **Backend**: Node.js, Express  
+- **Backend**: Next js 
 - **Database**: PostgreSQL (with Prisma ORM)  
 - **DevOps**: Docker  
 
