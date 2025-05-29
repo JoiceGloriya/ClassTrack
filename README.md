@@ -18,8 +18,7 @@
 
 - **Frontend**: React, TypeScript  
 - **Backend**: Next js 
-- **Database**: PostgreSQL (with Prisma ORM)  
-- **DevOps**: Docker  
+- **Database**: PostgreSQL (with Prisma ORM)    
 
 
 
